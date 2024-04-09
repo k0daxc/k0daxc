@@ -1,1 +1,1 @@
-Download "Tibase32.dll, Tieng32.dll, Tispan32.dll" for the exe file to launch and work correctly.
+Download "Tibase32.dll, Tieng32.dll, Tispan32.dll" for the exe file to launch and work correctly. Also you need to download the exe file. However you need to download the .dll files first.
